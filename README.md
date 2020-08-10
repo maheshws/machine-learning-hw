@@ -30,5 +30,3 @@ The Random Forest model was the best model in comparison.
 - Random Forest model is the best choice to predict exoplanet candidacy. 
 - Various feature selection methods can play significant role.
 - Proportionate class data is important. 
-- Prediction accuracy for class 0 and 1 is significantly less than class 2 prediction accuracy as class 2 data size almost double compared to class 0 and class 1.
-- Lack of domain knowledge played an important role to rely on feature selection techniques which is not necessary a great way of building models.
